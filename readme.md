@@ -2,8 +2,7 @@
 
 ![A picture of the dais](images/dais.png)
 
-The daïs is an open source *new interface for musical expression* (NIME) developed as a research project at the Sound and Music Computing (SMC) masters programme at Aalborg University Copenhagen.
-
+The daïs is an open source *new interface for musical expression* (NIME).
 The daïs main feature is a disk that is suspended using elastic string.
 The instrument is played by pushing down and moving the disk around.
 The position and angle of the disk is captured by sensors and can be used to control sound synthesis algorithms or effect.
