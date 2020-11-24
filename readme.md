@@ -3,14 +3,12 @@
 ![A picture of the dais](images/dais.png)
 
 The daïs is an open source *new interface for musical expression* (NIME).
-The daïs main feature is a disk that is suspended using elastic string.
+The daïs main feature is a disk that is suspended by elastic string.
 The instrument is played by pushing down and moving the disk around.
-The position and angle of the disk is captured by sensors and can be used to control sound synthesis algorithms or effect.
+The position and angle of the disk is captured by sensors and can be used to control sound synthesis algorithms or audio effects.
 
-Multiple parameters to be controlled with a single movement, and the gestures afforded by the instrument produce a performative playing style.
+Multiple parameters to be controlled with a single movement, and the gestures afforded by the instrument result in a performative playing style.
 The disk is haptically enabled using vibrotactile transducers that facilitate an intimate playing experience.
-
-This repository is still a work in progress but hopefully it will grow to contain coherent instructions on how to build and use the Daïs.
 
 ## About this Repository
 
