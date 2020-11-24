@@ -10,6 +10,8 @@ The position and angle of the disk is captured by sensors and can be used to con
 Multiple parameters to be controlled with a single movement, and the gestures afforded by the instrument result in a performative playing style.
 The disk is haptically enabled using vibrotactile transducers that facilitate an intimate playing experience.
 
+The Daïs was presented at [NIME 2020](https://www.nime.org/proceedings/2020/nime2020_paper119.pdf) and was later featured on the [Bela blog](https://blog.bela.io/2020/10/30/dais-haptic-feedback-instrument-pelle-christensen/). See also the [video](https://www.youtube.com/watch?v=Zl-xNjUgyLA) made for the blog post.
+
 ## About this Repository
 
 This repository contains everything you need to build your own daïs.
